@@ -15,7 +15,7 @@
 ## Инструкция по установке:
 
 
-Ссылка на репозиторий - [git clone](https://github.com/AlinaOnly/how-to-learn.git)
+Ссылка для клонирования репозитория - https://github.com/AlinaOnly/how-to-learn.git
 
 Открыть страницу - [Page](https://alinaonly.github.io/how-to-learn/)
 
